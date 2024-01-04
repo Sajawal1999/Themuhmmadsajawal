@@ -176,6 +176,7 @@ letter-spacing: 3px;
 .Language {
   padding-right: 600px; /* Adjust as needed */
   padding-top: 570px; /* Adjust as needed */
+  padding-bottom: 20px;
   position: absolute;
   color: #333; /* Darkened text color for better readability */
   margin-left: 100px;
